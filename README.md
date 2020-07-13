@@ -1,3 +1,3 @@
 # arduino projects
 
- - relay-buttonpress # a countdown timer supports different scheduling.
+ - countdown-timer.ino # a countdown timer supports different scheduling.
